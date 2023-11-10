@@ -111,5 +111,3 @@ class Post {
 
   // function to display fetched data on screen
 }
-
-//Jessica Judith Rojas Torres 5B
